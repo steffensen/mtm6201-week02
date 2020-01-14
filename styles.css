@@ -1,0 +1,47 @@
+header{
+    width: 50%;
+    margin: 50px auto;
+}
+
+/* part 1 - 0|0|0|1*/
+/* h1 {
+    color: red;
+} */
+/* h1 {
+    color: green;
+} */
+
+/* part 2 - 0|0|1|0*/
+/* .title{
+    color: red;
+} */
+
+/* [type="text"] {
+    color: red;
+} */
+
+/* h1:hover{
+    color:red;
+} */
+
+/* part 2 - 0|1|0|0 */
+/* #header {
+    color: red;
+} */
+
+/* #title {
+    color: red;
+} */
+
+/* part 3 - 1|0|0|0*/
+/* style="color: red" */
+
+/* part 4 - 0|1|1|1*/
+/* #header h1.title{
+    color: red;
+} */
+
+/* part 4 - 0|2|2|2*/
+/* #header.header h1#title.title{
+    color: red;
+} */
